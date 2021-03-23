@@ -14,7 +14,9 @@ All data we store is encrypted at rest.
 
 ## We protect your credentials
 
-Your database credentials (and any generated SSH private keys) are encrypted in our database with a key that is unique to each workspace. This information is also encrypted again when stored at rest.
+Your database credentials (and any generated SSH private keys) are encrypted in our database with a key that is unique to each workspace. This information is also encrypted again when stored at rest. If an attacker was to get a copy of the full database, they would be unable to to see your database connection details.
+
+Only users with the "Owner" role have permission to view your connection details decrypted in the connection editor.
 
 ## Abstractions over querying
 
