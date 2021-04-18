@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/882228/115136839-3d4a5a00-9fd7-11eb-9d
 
 The beta version of Aidmin can be found here: https://app.aidmin.io.
 
-Aidmin is still in early development, and we'd love to get your feedback on which features are important to you. If you come across any bugs, please open an [issue](https://github.com/aidmin-io/aidmin/issues) against this repository and we'll be sure to address them in a timely manner. Similarly, if you'd like to submit a feature suggestion or have other ideas, please post in the [Discussion](https://github.com/aidmin-io/aidmin/discussions/categories/ideas) board.
+Aidmin is still in early development, and we'd love to get your feedback on which features are important to you. If you come across any bugs, please open an [issue](https://github.com/aidmin-io/aidmin/issues) against this repository and we'll be sure to address them in a timely manner. Similarly, if you'd like to submit a feature suggestion or have other ideas, please post in the [Discussion](https://github.com/aidmin-io/docs/discussions/categories/ideas) board.
 
 ## What problems does Aidmin solve?
 
