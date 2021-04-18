@@ -2,6 +2,10 @@
 
 Welcome to the temporary homepage for Aidmin.
 
+https://user-images.githubusercontent.com/882228/115136839-3d4a5a00-9fd7-11eb-9dfa-567cf5d13f9b.mp4
+
+[Higher Quality Demo](https://www.loom.com/share/961636d33578410baec67582cffb3411)
+
 ## What problems does Aidmin solve?
 
 Give's your organization access to the database. Every early stage startup has certain actions only developers can perform, because it is often the case that only they have access to the database. Aidmin provides a simple spreadsheet like interface that anyone can use, granular role based access, and a full audit log.
